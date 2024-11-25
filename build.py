@@ -7,7 +7,7 @@ def get_personal_data():
     linkedin = "tushar-dot-prakash"
     bio_text = f"""
                 <p>
-                    I am a Machine Learning researcher at Sony Research India, working on personalization and machine learning optimization.
+                    I am a Machine Learning researcher at Sony Research India, working on personalization and optimization.
                     Previously, I was a Research Intern at the <a href="https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html" target="_blank">University of Alberta</a> supervised by <a href="https://apps.ualberta.ca/directory/person/xingyu" target="_blank">Dr. Xingyu Li</a>. I have spent a "bit" at Microsoft as SDE intern, developing testbeds for 5G infrastructure.
                     As an undergraduate student, I studied Electronics and Communication Engineering at the <a href="https://dtu.ac.in/" target="_blank"> Delhi Technological University (India)</a>.
                 </p>
